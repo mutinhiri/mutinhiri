@@ -10,3 +10,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love singing and dancing
 -->
+
+[![Bunbee GitHub stats](https://github-readme-stats.vercel.app/api?username=mutinhiri)](https://github.com/anuraghazra/github-readme-stats)
