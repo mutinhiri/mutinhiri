@@ -2,12 +2,12 @@
 
 ##Software Engineer
 
-- 🔭 I’m currently working on Next.Js web app projects
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently developing and maintaining MERN stack projects
+- 🌱 I’m currently working on solutions for Fintech Startups
 - 👯 I’m looking to collaborate on business optimization applications
 - 💬 Ask me about web applications 
 - 📫 How to reach me: barnabmutinhiri@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Him
 - ⚡ Fun fact: I love singing and dancing
 -->
 
